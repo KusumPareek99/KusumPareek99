@@ -1,6 +1,6 @@
-### Hi there! Welcome to my GitHub playground! 👋
+# Hi there! Welcome to my GitHub playground! 👋
 
-## 🚀 About Me 👋
+### 🚀 About Me 👋
 - Recent postgraduate with a strong foundation in MERN stack development.
 - Enthusiastic about creating dynamic and responsive web applications.
 - Constantly exploring new technologies and seeking opportunities to learn and grow.
