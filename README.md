@@ -28,8 +28,11 @@
 
 Let's code and learn together! 🖥️✨
 
-![Kusum's GitHub stats](https://github-readme-stats.vercel.app/api?username=KusumPareek99&show=reviews&show_icons=true&theme=gruvbox)
 <!--
+
+![Kusum's GitHub stats](https://github-readme-stats.vercel.app/api?username=KusumPareek99&show=reviews&show_icons=true&theme=gruvbox)
+
+
 **KusumPareek99/KusumPareek99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
