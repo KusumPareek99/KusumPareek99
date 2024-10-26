@@ -22,7 +22,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,express,react,mongodb,mysql,firebase)](https://skillicons.dev)
   
-🎖️ **HactoberFest Badges**
+🎖️ **HacktoberFest Badges**
 
   [![An image of @kusumpareek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kusumpareek)](https://holopin.io/@kusumpareek)
 
